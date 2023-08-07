@@ -1,0 +1,1 @@
+It is only page of amazone using html and tailwind css. for practicing of html and tailwind css and the page contains all items of amazone from header to footer. I try to make as possible as amamzone  page. 
